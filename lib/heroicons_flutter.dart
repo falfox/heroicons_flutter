@@ -1,0 +1,1 @@
+library heroicons_flutter;
